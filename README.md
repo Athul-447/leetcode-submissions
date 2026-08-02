@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Athul-447/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Athul-447/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Athul-447/leetcode-submissions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,16 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Athul-447/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Athul-447/leetcode-submissions/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
