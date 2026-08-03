@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/Athul-447/leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Athul-447/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
+| [1991-find-the-middle-index-in-array](https://github.com/Athul-447/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Athul-447/leetcode-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Athul-447/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/Athul-447/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
