@@ -25,6 +25,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Athul-447/leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Athul-447/leetcode-submissions/tree/master/0016-3sum-closest) |
+| [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,13 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
