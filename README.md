@@ -20,6 +20,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Athul-447/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Athul-447/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Athul-447/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -28,12 +29,14 @@
 | [0015-3sum](https://github.com/Athul-447/leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Athul-447/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Athul-447/leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Athul-447/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0912-sort-an-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
