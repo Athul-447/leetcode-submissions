@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Athul-447/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
