@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Athul-447/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0506-relative-ranks](https://github.com/Athul-447/leetcode-submissions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Athul-447/leetcode-submissions/tree/master/0704-binary-search) |
@@ -38,6 +39,7 @@
 | [0015-3sum](https://github.com/Athul-447/leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Athul-447/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Athul-447/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0506-relative-ranks](https://github.com/Athul-447/leetcode-submissions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -115,6 +117,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Athul-447/leetcode-submissions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
