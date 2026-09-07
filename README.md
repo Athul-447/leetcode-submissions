@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Athul-447/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Athul-447/leetcode-submissions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Athul-447/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -143,4 +145,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Athul-447/leetcode-submissions/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
