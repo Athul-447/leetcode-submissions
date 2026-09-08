@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Athul-447/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Athul-447/leetcode-submissions/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,10 +154,16 @@
 | [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Athul-447/leetcode-submissions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Athul-447/leetcode-submissions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Athul-447/leetcode-submissions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Athul-447/leetcode-submissions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Athul-447/leetcode-submissions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
