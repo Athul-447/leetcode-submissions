@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/Athul-447/leetcode-submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Athul-447/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Athul-447/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Athul-447/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Athul-447/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Athul-447/leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Athul-447/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Athul-447/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
