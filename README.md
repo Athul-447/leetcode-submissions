@@ -82,6 +82,7 @@
 | [0070-climbing-stairs](https://github.com/Athul-447/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Athul-447/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Athul-447/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Athul-447/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@
 | [0509-fibonacci-number](https://github.com/Athul-447/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Athul-447/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Athul-447/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Athul-447/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Athul-447/leetcode-submissions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Athul-447/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
