@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/Athul-447/leetcode-submissions/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/Athul-447/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Athul-447/leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Athul-447/leetcode-submissions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Athul-447/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
 ## Game Theory
