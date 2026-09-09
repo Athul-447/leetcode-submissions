@@ -36,6 +36,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Athul-447/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Athul-447/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Athul-447/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1572-matrix-diagonal-sum](https://github.com/Athul-447/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Athul-447/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Athul-447/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Athul-447/leetcode-submissions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -229,4 +230,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Athul-447/leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Athul-447/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
