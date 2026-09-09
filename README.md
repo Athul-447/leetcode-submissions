@@ -26,6 +26,7 @@
 | [0875-koko-eating-bananas](https://github.com/Athul-447/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Athul-447/leetcode-submissions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Athul-447/leetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Athul-447/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -95,6 +96,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Athul-447/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Athul-447/leetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/Athul-447/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Athul-447/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
@@ -112,6 +114,7 @@
 | [0525-contiguous-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Athul-447/leetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Athul-447/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -127,6 +130,7 @@
 | [0076-minimum-window-substring](https://github.com/Athul-447/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Athul-447/leetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 ## Trie
 |  |
 | ------- |
