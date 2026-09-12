@@ -47,6 +47,7 @@
 | [0016-3sum-closest](https://github.com/Athul-447/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Athul-447/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Athul-447/leetcode-submissions/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
@@ -245,5 +247,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Athul-447/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
