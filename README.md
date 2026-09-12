@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Athul-447/leetcode-submissions/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Athul-447/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0525-contiguous-array) |
@@ -137,6 +138,7 @@
 | [0014-longest-common-prefix](https://github.com/Athul-447/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Athul-447/leetcode-submissions/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -175,6 +177,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
@@ -234,4 +237,8 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Athul-447/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
