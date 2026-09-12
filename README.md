@@ -232,6 +232,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Athul-447/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Athul-447/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
@@ -241,4 +242,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Athul-447/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Athul-447/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
