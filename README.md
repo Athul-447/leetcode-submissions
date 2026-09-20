@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Athul-447/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Athul-447/leetcode-submissions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Athul-447/leetcode-submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Athul-447/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -253,4 +254,12 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Athul-447/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Athul-447/leetcode-submissions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Athul-447/leetcode-submissions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
